@@ -14,7 +14,7 @@ class S3SecureDownloads_UrlService extends BaseApplicationComponent
 
 	public function getSignedUrl( $entry_id ) {
 
-		$entry = craft()->elements->getElementById( $entry_id );
+		$entry = craft()->elements->getElementById( $entry_id, ElementType::Asset );
 		$fileName = $entry->filename;
 
 		$sourceType = craft()->assetSources->getSourceTypeById( $entry->sourceId );
