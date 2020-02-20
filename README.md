@@ -1,4 +1,4 @@
-### This Craft 2.x plugin is no longer maintained. You are free to use it in your Craft2.x projects but no further development will take place and not support is offered.
+### This Craft 2.x plugin is no longer maintained. You are free to use it in your Craft2.x projects but no further development will take place and no support is offered.
 
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
