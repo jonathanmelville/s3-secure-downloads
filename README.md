@@ -1,3 +1,7 @@
+### This Craft 2.x plugin is no longer maintained. You are free to use it in your Craft2.x projects but no further development will take place and not support is offered.
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # S3 Secure Downloads plugin for Craft CMS
 
 This plugin will return a [signed URL](http://docs.aws.amazon.com/AmazonS3/latest/dev/ShareObjectPreSignedURL.html) used to allow temporary access to private objects with an expiring URL. You can optionally allow file downloads only for logged in users and force file downloads (useful for PDF files). This plugin was originally developed for a client in the financial services industry who wanted to make sure only logged in users had access to downloads of financial reports, and download links couldn't be shared.
